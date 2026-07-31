@@ -412,4 +412,3 @@ else:
 # --- FOOTER LEGAL DISCLAIMER FOR PRIVATE / MOBILE USE ---
 st.divider()
 st.caption("🔒 **Private Beta Use:** Operated locally or privately on your mobile device. AI outputs are powered by open-source endpoints and third-party APIs.")
-  
